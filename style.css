@@ -1,0 +1,46 @@
+.rrr {
+     background-color: orange;
+     width: auto;
+     height:  50px;
+     text-align: center;
+     font-size: 30px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.rrr:hover { 
+     background-color: rgb(255, 193, 94);
+     font-style: oblique;
+}
+
+#sec1 {
+     height: 50px;
+     width: auto;
+ background-color: 
+}
+.seci {
+     height: 50px;
+     width: 45%;
+     float: left;
+}
+.secii {
+     background-color: rgb(26, 71, 205);
+     height: 50px;
+     width: 10%;
+     float: left;
+}
+
+
+#sec2 {
+     height: 50px;
+     width: auto;
+ background-color: green;
+ text-align: center;
+ font-size: 30px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+
+body {
+     margin: 0;
+     padding: 0;
+}
